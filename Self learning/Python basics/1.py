@@ -65,5 +65,6 @@ two = 2
 zdravo = "zdravo"
 
 #print(one + two + zdravo)
+#ovaj print je komentarisan jer nećete biti u mogućnosti da pokrenete bez errora, kada dođete do ovoga dijela, slobodno odkomentarišite
 
 print ("Ćaooo :)")
